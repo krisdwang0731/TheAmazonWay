@@ -2,7 +2,7 @@
 
 by Terry Jones
 
-**Founder of Travellocity.com, Founding Chairmain of Kayak.com, Chairman of WayBlazer**
+**Founder of Travellocity.com, Founding Chairman of Kayak.com, Chairman of WayBlazer**
 
 ​		We've all seen those ubiquitious company posters that pontificate about a company's mission, yet it is clear to all that no one, including the CEO, has read them, much less lived them.
 
