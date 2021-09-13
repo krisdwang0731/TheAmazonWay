@@ -6,6 +6,8 @@ by Terry Jones
 
 We've all seen those ubiquitious company posters that pontificate about a company's mission, yet it is clear to all that no one, including the CEO, has read them, much less lived them.
 
+我们都见过那些随处可见的公司海报，这些海报高调宣扬公司的使命，但所有人都清楚，包括 CEO 在内的所有人都没有读过它们，更不用说亲身体验了。
+
 Amazon is different. It inculcates its values in every meeting and in every process. They are the basis for its incredible success because they guide almost everything Amazon does.
 
 Consequently, *The Amazon Way* is an insightful look at a very rare beast indeed, an American corporation that actually lives its values.
@@ -26,3 +28,4 @@ Now you can learn from Bezoz and Amazon and put those lessons to work.
 
 > Terry Jones is founder of Travelocity.com, founding Chairman of Kayak, and Chairman of WayBlazer. He's worked in travel industry for forty years. For the last ten years, he's been speaking and consulting with companies on innovation and change.
 
+##### 
