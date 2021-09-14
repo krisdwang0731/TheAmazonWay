@@ -80,7 +80,11 @@ Executives talk about "failing forward" and mistake bets. Most do not understand
 
 The best part about working at Amazon is that everything is always on an improvement path. There is nothing static. Make is faster, add new features, do it cheaper, reduce errors, delight the customer - constant change. Operating well is now a necessary to compete. Every company has to be able to create continuous change and embrace continuous improvement. This is the Change IQ. Warren Buffet tells boards and CEOs to combat the "ABCs" (aoorgance, bureaucracy, and complacency) into which successful businesses and team fail. To avoid the ABCs, set the expectation and forcing functions to create a culture with a high Change IQ.
 
+Why does Amazon create this perpetual environment of innovation and continuous improvement? They firmly believe that if you are not creating and managing digital disruption, you will be a victim of it. The speed of evolution in business is accelerating. The life span of companies on the S&P 500 Index is a great indication of this acceleration. Three out of four companies on the S&P Index are predicted to fall out it in the next fifteen years. It is truly "innovate or dir." Ask yourself, "How would our business and industry change if Amazon operate it?" You might come up with some surprising ideas.
 
+In dicussing why Amazon is always pushing to invent, Jeff Bezoz told TV commentator, Charlie Rose in a 2013 interview that "companies have short lift spans and Amazon will be disrupted one day. I don't worry about it because I know it is inevitable. Companies come and go. Companies that are the shiniest and most important of any era, and you just with a couple of decades and they are gone. I would love for it [Amazon's disruption] to be after I'm died." Companies that don't let the past models and successes define who they are will be the ones that span and define the next ones.
+
+These are just a few of the conversations and represent some of the feedback I have received from readers working to adjust their company cultures. I hope *The Amazon Way* gives you some ideas you can start using today. Please feel free to reach out to me at johnerossman@gmail.com to tell me what you find along your journey of change and innovation.
 
 
 
