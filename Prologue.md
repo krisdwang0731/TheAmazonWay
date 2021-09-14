@@ -24,11 +24,15 @@ Consequently, I figured it's time to update *The Amazon Way* to not only include
 
 A single word can make a huge difference. Consider "obsession" versus "satisfaction". Typical management strives to create and measure "consumer satisfaction." They work to create slightly more satisfied customer than the competitor and measure the experience in various ways. What if, instead, you "obsessed" over your customer? What would you need to do to delight your customers(this includs internal customers) but do so with the same or improved cost and efficiency? You would likely have to change many things about business.
 
-
+In so many industries, lots of companies are attempting great disruptions. At the center of successful disruption invairably lies great customer experience (For exmaple, Uber.) When a disruption stalls, it's often because the customer experience is not at the center of the solution. Take the payments industry. Retailers want to avoid the interchange fee. Platforms like Apple Pay and Google Wallet are offering solutions, but the current offerings don't really solve a fundamental user problem. For exmaple, I still can't get a history of payments and easily manage them from my mobile payments.
 
 
 
 ## Simplify, integrate, and automate processes to scale your business.
+
+
+
+
 
 ## Enable accountability and manage depenencies.
 
