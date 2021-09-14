@@ -10,9 +10,15 @@ We've all seen those ubiquitious company posters that pontificate about a compan
 
 Amazon is different. It inculcates its values in every meeting and in every process. They are the basis for its incredible success because they guide almost everything Amazon does.
 
+亚马逊则不同，它在每一次会议和每一个流程都在灌输其价值观。这些价值观成为其令人难以置信成功的基础，因为它们指导着亚马逊所做的几乎所有事情。
+
 Consequently, *The Amazon Way* is an insightful look at a very rare beast indeed, an American corporation that actually lives its values.
 
+因此，***亚马逊之道*** 是对一只罕见野兽的深刻剖析，它确实是一家真正践行其价值观的美国公司。
+
  John Rossman didn't "grow up" at Amazon but rather came from the outside and had to quickly get up to speed on Amazon's "gladiator culture" and Jeff Bezoz's constant probing, questioning, and, yes, at times, screaming at his team.
+
+
 
 Throught his experiences, you can learn how the team at Amazon obsesses over the customer, invents, simplifies, and think big while practicing frugality. He also explains how its values are supported by microscopic set of measurements and well-defined service level aggrements that instantly show when things veers off track.
 
