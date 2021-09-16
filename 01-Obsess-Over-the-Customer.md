@@ -8,6 +8,8 @@ Jeff Bezoz's customer obsession is really something beyongd a mere obsession - i
 
 This approach to business is at the core of Jeff's genius. Long before social media revolutionized the retail world with its vast, transparent networks linking companies, customers, prospects, and detractors; long before companies like Zappos.com made customer service the fundation of their business model; and even long before Jeff had fully realized his own vison for Amazon.com, he had profoundly internalized two truths about customer service:
 
+
+
 * When a company makes a customer unhappy, that customer won't tell a friend or two or three... he or she will tell many, many more; and 
 * The best customer service is *no* customer service - because the best experience happens when the customer never has to asky for help at all.
 
