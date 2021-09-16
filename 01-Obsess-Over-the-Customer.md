@@ -99,3 +99,19 @@ Amazon literally has a job titled "Senior Product Manager, Andon Cord"; the empl
 
 ## The Voice of the Customer as a Driver of Innovation
 
+In the early days of Amazon, Jeff Bezoz would bring an empty chair into meetings as a constant reminder to his team that the customer, even tough he or she might not be physically present in the room, still need to be constantly acknowledged and heard. But Amazon also taks unusual steps to ensure that litteral voice of the customer is heard throughout the organization. The goal is to ensure that customer feedback is used to identify, examine, and fix the root problems in Amazon's operations. Jeff requires all of his managers to attend two days of call-center trying each year. In fact, if you dial in to the call center on just the right day, you may even get Jeff himself on the line. In theory, the resulting sense of understanding and empathy for the customer trickles up into the highest echelons of the organization.
+
+Of course, in the age of blogs, tweets, and Facebook posts, a single customer complaint that goes viral can have a devastating impact. So Jeff has invested millions to construct systems that monitor the online feedback Amazon.com receives from its customers. For example, during my time heading up the third-party marketplace, we established an interanl e-mail system that facilitated and monitors conversation with customers and retailers, uses metrics to track customer complaints about third-party retailers, and implements a fulfillment capability (Fulfillment by Amazon), which lets merchants easily leverage Amazon.com's distribution channels.
+
+Jeff's shareholder letter dated April, 2013, described another example of how the customer experience drived innovation at Amazon:
+
+​		We build automated systems that look for occasions when we've provided a customer experience that isn't up to our standards, and those systems 		then proactively refund customers. One industry observer recently received an automated email from us that said: "We noticed that you 		  		  		experienced poor video playback while watching the following rental on Amzon Vedio On Demand: Casablanca. We're sorry for the inconvenience 		and hive issued you a refund for the following amount: $2.99. We hope to see you again soon." Surprised by the proactive refund, he ended up 		  		writing about the experience: "Amazon 'noticed that I experienced poor vedio playback...' And they decided to give me a refund because of that? 		Wow...Talk about putting customers first."<sup>7</sup>
+
+The history of the company is studded with innovation triumphs driven by customer obsession. Pushing the publishing industry to make books available electornically provided readers with instant gratification at lower prices. Providing unlimited next-day delivery (The Amazon Prime loyalty program) for seventy-nine dollars (now ninety-nine) a year drove revenue by drastically reducing the friction involved in online shopping. And Amazon Web Services, the category leader and chief innovator in the field of cloud computing, was based on the idea of offering business customers the same sohiscicated online instrastructure technology that Amazon has developed for itself.
+
+Here is a closer look at some Amazon's biggest customer-driven innovation hits:
+
+*Look inside the Book.*<sup>TM</sup> In 2001, Amazon.com launched the program based on a simple concept - the idea of emulating the bookstore experience by allowing Amazon.com surfers to look at pages inside the book before buying.
+
+Of course, this required Amazon.com to house book content in online from on the side, which raised some questions about whether this would expose book content to piracy. Publishers were worried and skeptical. The program would also be very costly. Each book would have to be scanned digitally and indexed, a huge logistical challenge.
+
