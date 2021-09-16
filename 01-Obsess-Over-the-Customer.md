@@ -31,7 +31,7 @@ Allen Mandelbrot founde the field of fractal mathematics, which studies (among o
 
 Here's macro example of how the flywheel effect works (see Figure 1.1). Jeff doesn't focus on margins. He's more focused on free cash flow - that is, the cash that a company is able to generate after laying out the money required to maintain or expand its asset base. Why? Because he believes the Internet's potential for growth is gargantuan and still fundamentally unexploited. To Jeff, the year in 1889, and the Oklahoma Land Rush is on - or, as he likes to put it, it's still Day 1 of the Internet. So he's ready to slash prices and create programs like free shipping to cultivate customer loyalty and drive sales growth toward the unimaginable heights he foresees. Then he invests the revenue generated back into "the holy trinity": price, selection, and availibility (more on the later).
 
-<img src="/Users/krisdwang/work/work/TheAmazonWay/images/01/flywheel.jpeg" style="zoom:100%;" />
+<img src="images/01/flywheel.jpeg" style="zoom:100%;" />
 
 <center>Figure1.1. The flywheel effect. How an improved customer experience and customer growth feed other in a virtuous cycle</center>
 
