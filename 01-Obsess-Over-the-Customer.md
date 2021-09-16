@@ -117,3 +117,17 @@ Of course, this required Amazon.com to house book content in online from on the 
 
 Jeff gave the go-ahead for a large-scale launch, recognizeing that this was the only way to see whether it would to over with Amazon's forty-three million active customer accounts.<sup>8</sup> The feature debuted with an astonishing 120,000 plus books. The database took up twenty terabytes, which was about twenty times larger than the biggest database that existed anywhere when Amazon.com was founded.
 
+David Risher was Amazon.com's first vice president of production and store development, responsible for growing the company's revenue from $ 16 million to over $4 billion. He described the strategy behind the launch of Look Inside the Book this way: "If we had tried it in a tentative way on a small number of books, any 1,000 or 2,000, it wouldn't have gotten the PR and the customers' preception. There's an Xfactor: What will it look like in scale? It's a big investment, and big opportunity cost. There's a leap of faith. Jeff is willing to take those gambles."<sup>9</sup> Ultimately, the publishers embraced the Look Inside the Book program as an assert to sales.
+
+***Amazon Prime.*** Though many people think of Amazon Prime as a shipping program, it's really a very clever loyalty program. When we were comping up with this concept, Jeff referenced airline credit cards - how you never feel like you're being rewarded when you're using one. He wanted to create a loyalty program that provided very tangible benefits. With Prime, the customer is very clear on how they're being rewarded for shopping with Amazon. The benefits started with free two-day shipping; now members also received e-book rentals on Kindle devices and can stream selected movies and television shows for no extra charge beyond Prime membership annual fees.
+
+Since its inception in February 2005, Amazon Prime has become an increasingly important part of Amazon.com's broader strategy to retain customers and get them to spend more time and money on its services and products. Because they pay ninety-nine dollars per year to join, Amazon Prime members use the service more frequently. And Amazon Prime continues to up customer expectation: Prime Now offers 2 hours delivery in major urban areas.
+
+
+
+In the end, Amazon.com's strategy for remaing the world's most customer-focused retail company in the years to come leans heavily on another leadership principle: a bias for action (seee chapter 8). Rarely do you find Jeff Bezoz reacting to a competitor's initiative. In his mind, it's preferable to launch a new innovation based on customer needs and experience and force your competitors to react - even if that innovation struggles or fails.
+
+"If you're competitor-focused, you have to wait until there is a competitor doing something," Jeff explains. "Being customer-focused allows you to be more pioneering."<sup>10</sup>
+
+Or, as he put it in a 2009 *Fast Company interview*: "There are two ways to extend a business. Take inventory of what you're good at and extend out from your skills. Or determine what your customers need and work backward, even if it requires learning next skills."<sup>11</sup>
+
