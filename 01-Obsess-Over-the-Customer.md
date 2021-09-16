@@ -115,3 +115,5 @@ Here is a closer look at some Amazon's biggest customer-driven innovation hits:
 
 Of course, this required Amazon.com to house book content in online from on the side, which raised some questions about whether this would expose book content to piracy. Publishers were worried and skeptical. The program would also be very costly. Each book would have to be scanned digitally and indexed, a huge logistical challenge.
 
+Jeff gave the go-ahead for a large-scale launch, recognizeing that this was the only way to see whether it would to over with Amazon's forty-three million active customer accounts.<sup>8</sup> The feature debuted with an astonishing 120,000 plus books. The database took up twenty terabytes, which was about twenty times larger than the biggest database that existed anywhere when Amazon.com was founded.
+
