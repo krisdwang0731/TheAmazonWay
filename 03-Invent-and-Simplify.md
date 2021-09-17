@@ -112,7 +112,35 @@ Described this way, it all sounds rather matter-of-fact, even obvious. But now t
 
 ## Fulfillment By Amazon
 
+Many classic cases of invent and simplify at Amazon.com are behind-the-success processes and capabilities in fulfillment and customer service. One example is Fulfillment by Amazon (FBA), an idea driven by the success of the third-party seller business. Over the first decade of its existence, Amazon.com had built a vast system of physical storage space, technological systems, and processes that optimized item location in correlation with demand. As the third-party seller's marketplace took off, it became celar that if we could allow others to leverage those capabilities, there would be a strong upside for both our new third-party business and for Amazon.com as a whole.
 
+The idea germinated when Amazon.com signed partnership agreements with Toys "R" Us and Target to run their e-commerce infrastructures. When both companies began storing their items in Amazon fulfillment network, it became clear that our capabilities offered an opportunity to create increased economies of scale and utilization for Amazon.
+
+The concept was remarkably simple: "You sell it; we ship it." With FBA, you store your products in Amazon.com's fulfillment centers, and Amazon workers pick, pack, ship, and provide customer service for these products. Amazon had created one of the most advanced fulfillment networks in the world, and any business could now benefit from their expertise. In a 2012 survey, 73 percent of respondents reported that their unit sales had increased on Amazon.com by more than 20 percent since joining FBA.<sup>4</sup>
+
+In addition, products listed through FBA also became eligible for free Super Saver Shipping and Amazon Prime shipping discounts, gift wrapping, twenty-four-seven Amazon customer service, and up-to-minutes count-down for one-day shipping. In other words, sellers are able to piggyback on arguably the most powerful retail brand in the world. A great new flyywheel!
+
+In the 2011 shareholder letter, Jeff wrote:
+
+Fulfillment by Amazon (FBA) shipped tens of millions of items on behalf of sellers. When sellers use FBA, for Super Saver Shipping, and for Amazon returns processing and customer serivce. FBA is self-service and comes with an easy to use inventory management console as part of Amazon Seller Central. For the most technically inclined, it also comes with a set of API's so that you can use our global fulfillment center network like a giant computer peripheral.<sup>5</sup>
+
+
+
+## Amazon Web Services
+
+Do discussion of Amazon.com's platform business would be complete without some analysis of Amazon Web Services (AWS). It is a prime example of Jeff's "invent and simplify" principle. AWS offers companies technologies and capabilities that provide the ability to grow infrastructure instantaneously and to shrink it back if the need diminishes. This elasticity in reousece usage gives companies momentum on a vast new scale.
+
+Having build one of the world's largest infrastructures for e-commerce, Amazon.com was not content simply to leverage this new technology for its own business. Instead, it also became the leader and critical innovator in cloud computing, revenue(2013) that chould be worth $19 billion to $30 billion if it were a standalone company.<sup>6</sup>
+
+In this 2011 shareholder letter, Jeff wrote:
+
+​		Amazon Web Services (AWS) has grown to have over thirty different services and thousands of large and small businesses and individual developers 		as customers. One of the first AWS offerings, the Simple Storage Service or S3, now hold over 900 billion data objects with over billion being added 		every day. S3 routinely handles more than 50,000 transaction per second and has peaked at close to a million transactions per second. All AWS 		  		services are pay-as-you-go and radically transform capital expense into variable cost. AWS is self-service: you don't need to negotiate a contract or 	  		engage a salesperson - you just read the online documentation and get started. AWS services are elastic - they easily scale up and easily scale down.<sup>7</sup>
+
+You can see the pattern: the radical transformation of an industry aching for a new delivery model, in this case for cloud-based technology services; the development of a process for driving dramatically lower costs by providing self-service capabilities; and the drive toward scale as a platform business. See Appendix A, "Future-Ready Self-Service," for a further explanation of why the concept of self-service is such a powerful value -creating strategy.)
+
+
+
+## Imitate the Competition, and Don't Be Afraid to Fail
 
 
 
