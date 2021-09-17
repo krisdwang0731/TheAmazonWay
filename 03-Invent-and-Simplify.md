@@ -34,6 +34,12 @@ So if you want to understand how Amazon.com thinks about the principle of invent
 
 As I've noted, technology makes the platform possible. But algorithm， automation, workflow, and technology are only part of how Amazon is inventing and simplifying. More important is the fact capabilities are designed *from the user backwards*. When we were building the third-party selling business at Amazon.com, creating a great experience for the seller was our goal. Building a simple seller registration process was difficult but eseential to achieving that goal, and my job was to push engineering teams to integrate more than forty different underlying systems to create a seamless and simple workflow for that process.
 
+Willingness to rethink policies, rules, and other assumptions that are widely accepted in the business world is critical. So is asking and answering the questions, "If I had to completely automate the process and eliminate all manual steps, how would I design it?" Instead of aiming for a 10 percent reduction in friction, push a much more radical rethinking of assumptions; ask "the five whys" (see chapter 12, "Deep Dive"), and have the willingness to challenge the status quo. This is where all types of resistance, both active and passive, will be experienced, requiring a response from strong execuitive leadership. Some jobs will be changed; others will be eliminated. For all these reasons, it takes vision, creativity, desire, and courage to carry out the invent-and-simplify principle.
+
+
+
+## Process vs. Bureaucracy
+
 
 
 
