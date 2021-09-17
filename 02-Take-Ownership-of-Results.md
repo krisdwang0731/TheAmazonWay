@@ -1,4 +1,4 @@
-# Take Ownership of Results
+# 2. Take Ownership of Results
 
 > Leaders at Amazon are owners. They think long-term, and they don't sacrifice long-term value for short-term results. They never say, "That's not my job." They act on behalf of the entire company, not just their own team.
 
