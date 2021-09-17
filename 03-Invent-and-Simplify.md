@@ -40,7 +40,21 @@ Willingness to rethink policies, rules, and other assumptions that are widely ac
 
 ## Process vs. Bureaucracy
 
+Notice that two halves of the principle - invent and simplify - are both equally necessary. Process innovation can be enormously powerful, but when it is practticed without an emphasis on simplicity, the result is bureaucracy - the multiplication of processes for their won sake.
 
+One of the great observations I heard from Jeff came during one of our all-hands meetings, held at a local movie theater. Jeff took a question from an employee about avoiding bureaucracy while still ensuring that certain rules were put in place. Jeff responded with, "Good process is absolutely essential. Without defined processes, you can't scale, you can't put metrics and instrumentation in place, you can't manage. But avoiding bureaucracy is essential. Bureaucracy is process run amok."
+
+Jeff understood that A-level performers hate bureaucracy and will leave organizations where is encroaches upon them. By contrast, C- and D-Level performers, many of whom typically reside in middle management in any give organization, love bureaucracy because they can hide behind it, acting as gatekeepers and frequently creating the kind of friction that can dog down an entire company. Strong processes with measurable outcomes dliminate bureaucracy and expose underperformers.
+
+So how do you recognize bureaucracy and distinguish it from well-defined process? When the rules can't be explained; when they don't favor the customer; when you can't get redress from a higher authority; when you can't get an answer to reasonable question; when there is no service level agreement or guaranteed response time built into the process; or when the rules simply don't make sense - when any of these circumstances occur, the chances are good that bureaucracy is beginning to spread.
+
+I distinctly remember one particular S-Team meeting where Jeff looked east, our across Lake Washington to the Microsoft campus, and told us, "I don't want this place to become a country club." He truly feared that, with success and growth, Amazon would become complacent and bloated like MicroSoft; that we would cease to insist on the highest standards and gradually entangle ourselves in a giant ball of red tape. He told us that is we become like Microsoft, we would die. What's worse, he said, it won't be fun to come to work anymore.
+
+As you work to invent and perfect processes, always remember that simplify is an essential bulwark against the creeping onslaught of bureaucracy.
+
+
+
+## Other People's Work and the Mechanical Turk
 
 
 
