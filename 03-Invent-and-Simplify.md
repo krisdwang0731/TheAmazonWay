@@ -100,6 +100,18 @@ Equally important was Item Authority. Deceptively simple at first blush, Itema A
 
 Taken together, all these innovations worked remarkably well. Today, there are over two-million third-party sellers at Amazon.com, accouting for 40 percent of all Amzon units shipped and critical nature of Item Authority (the language comes from a job description):
 
+​		Item Authority is a mission-critical service at the heart of Amazon's business, and we are looking for a passionate, results-oriented, intentive   			   		software manager to head it up.
+
+​		When a merchant submits a product for listing in Amazon's catalog, Item Authority searches the catalog for matches. It either approves assigning   		that offer to a page, authorizes creation of a new page, or rejects the submission with an error. And it does this tens of millions of times per day.
+
+​		This "Matching" technology enables the creation of high quality Single Detail Pages (SDP) that help Amazon provide a great experience for our   		  		customers. It relies heavily on search technology (using A9), auto-classification, custom rules, and machine learning techniques for success. The ideal   		candidate thrives a fast-paced environment, understand elements of matching, search, and machine learning, and will help us build features that   		reduce merchant friction and drive revenue for Amazon.<sup>3</sup>
+
+Described this way, it all sounds rather matter-of-fact, even obvious. But now that you know the story behind the story, you can see that inventing Item Authority and the other elements of Amazon's third-party seller program - and the simplifying them for the benefit of every user of the platform - was far from easy.
+
+
+
+## Fulfillment By Amazon
+
 
 
 
