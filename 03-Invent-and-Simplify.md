@@ -142,5 +142,9 @@ You can see the pattern: the radical transformation of an industry aching for a 
 
 ## Imitate the Competition, and Don't Be Afraid to Fail
 
+In business, innovation is great - but it's clear that in many high-risk fields, mimicry pays off even better.Let the other guy originate the idea, invest the capital, discover a market, and develop operating processes. Then slide in, steal the blueprint, improve upon it, and scale it until the other guy has been left in the dust. The copycat often has a distinct advantage in this competition; the original innovator is typically emotionally bound to the original idea and hesitant to change it. The mimic has the benefit of an objective perspective and a willingness to course-correct as needed.
 
+Early on, Amazon.com tried to launch an auction business, but it couldn't out-auction eBay. Learning from our failure, we took the eBay concept and recast it with distinct Amazon.com values and technology, creating our ultra-successful third-party seller program. Jeff like to say, "Failure happens." Stumbles are a part of life, but at Amazon.com. it is imperative that you learn something useful from them.
+
+Don't be afraid to fail; some of the best ideas at Amazon have emerged from the ashes of defeat. But if you expect to have a long career at Amazon, make sure that failure doesn't happen a lot - regardless of how much you may learn in the process.
 
