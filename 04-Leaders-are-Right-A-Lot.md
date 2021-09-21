@@ -12,3 +12,4 @@ As I’ve mentioned, one of the reasons I’m able to write out a description of
 
 Interestingly enough, as leaders at Amazon.com we were required  to  write out our ideas in a long, narrative form, which may seem contrary to the  value of clarity.  After all, don’t most business presentations involve a series of bullet-point PowerPoint slides that are supposed to boil down complex concepts into a handful of brief, vivid phrases?
 
+But at Amazon, PowerPoint slides were not allowed. If you needed to explain a new feature or investment to the S-Team or Jeff himself, you began by  writing a five to seven page ssay. After you finished that, you reviewed it and trimmed it down to maybe two pages of text for the executives. I can’t tell you how many of my weekends were consumed by this writing and editing process. Then, at the beginning of the meeting, you would pass out this narrative and sit quietly for ten minutes while everyone read it.
