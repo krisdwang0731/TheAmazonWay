@@ -1,26 +1,48 @@
 # Prologue
 
+# 序言
+
 ## Lessons Learned Along "The Amazon Way"
 
-My goal is writing *The Amazon Way* was to offer insights and actionable techniques to increase company speed, improve accoutability, create clarity, and innovate customer experiences.
+## 《亚马逊之道》的经验教训
+
+My goal is writing *The Amazon Way* was to offer insights and actionable techniques to increase company speed, improve accountability, create clarity, and innovate customer experiences.
+
+我写《亚马逊之道》这本书的目的是为了提供洞察力和可行的技巧，从而提升公司速度，改进责任心，提高透明度以及创新客户体验。
 
 Sine publishing the book in June 2014, I've collaborated with hundreds of teams and leaders, applying lessons from the book to their cultures and business. What I didn't expect was the feedback, the energy - and, quite frankly, the frustration that accompanied the process of creating change.
 
+自从 2014 年 6 月出版这本书以来，我与数百个团队和领导者合作，将书中的经验应用于他们的文化和业务。坦率地讲，让我没有想到的是，在改变的过程中，活力和沮丧交织在了一起。
+
 The press wanted to know the same thing the business leaders did: What is Amazon's "secret sause"? *The Amazon Way* was favorably reviewed, perhaps most notably by *The New York Times* ("*Examining The Amazon Way*"), and I spent two days being interviewed by David Faber of CNBC for the documentary *Amazon Rising*.
+
+面对商业领袖，媒体都想知道一个同样的问题：“亚马逊的秘诀是什么”？《亚马逊之道》获得好评，或许最引人注目的是《纽约时报》（《审视亚马逊之道》），以及我花了两天时间接受了CNBC记者David Faber的采访，以拍摄纪录片《亚马逊崛起》。
 
 Years later, the invitations to speak to leaders and their teams continue. Organizations want to innovate, move faster, operate better, break down bureaucracy, build new business models, and incorporate digital capabilities in everything they do - and they continue to look to Amazon as a model.
 
+多年后，与领导人及其团队的谈话邀请仍在继续。组织想要创新、更快地行动、更好地运营、打破官僚主义、建立新的商业模式，并将数字能力融入他们所做的一切——他们继续将亚马逊视为一种典范。
+
 Why? Because Jeff Bezos's company not only continues to grow, it still innovate, experiments, make big bets, pioneers new business models, demonstrates the advantages of scale, and, yes, even reports profitability.
+
+为什么？ 因为杰夫·贝佐斯的公司不仅在继续发展，而且依然在创新、试验、下大赌注、开拓新的商业模式、展示规模优势，是的，甚至还报告了盈利能力。
 
 In other words, Amazon does not rest on it laurels - nor does it stop questioning its own orientation. It remains willing to learn from its mistakes and even adjusts its doctrines when necessary.
 
+换句话说，亚马逊并没有固步自封——也没有停止质疑自己的定位。 它仍然愿意从错误中吸取教训，甚至在必要时调整其信条。
+
 Case in point: the very guiding precepts my book examined. Amazon recently replaced the leadership principle "Be Vocally Self-Critical" with "Learn and Be Curious". This revision is an helpful principles to become outdated or brittle dogma.
 
+> 这句话没想好怎么翻译
+
 Consequently, I figured it's time to update *The Amazon Way* to not only include this new leadership principle and examine the company's accompanying shift in doctrine but to also highlight what I've been hearing from leaders in all sorts of organizations and at every level as the explore the Amazon Way.
+
+因此，我认为是时候更新 《亚马逊之道》 这不仅包括新的领导力原则并审视公司随之而来的原则转变，而且还要突出我从各种组织和各个级别的领导者那里听到的对亚马逊之道的探索。
 
 
 
 ## Create obsession about customers and about the right results.
+
+
 
 A single word can make a huge difference. Consider "obsession" versus "satisfaction". Typical management strives to create and measure "consumer satisfaction." They work to create slightly more satisfied customer than the competitor and measure the experience in various ways. What if, instead, you "obsessed" over your customer? What would you need to do to delight your customers(this includs internal customers) but do so with the same or improved cost and efficiency? You would likely have to change many things about business.
 
