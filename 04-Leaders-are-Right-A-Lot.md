@@ -1,12 +1,22 @@
 # 4. Leaders are Right - A Lot
 
+# 4. 决策正确
+
 > Leaders at Amazon are right—not always, but a lot. They have strong business judgment, and they spread that strong judgment to others through the utter clarity with which they define their goals and the metrics they use to measure success.
+>
+> 亚马逊的领导者大多数情况下能够做出正确的决定。他们具有很强的商业判断力，并通过明确定义目标和衡量成功的指标，将这种判断力传播给他人。
 
 Make no mistake; there is a high degree of tolerance forfailure at Amazon.com. A successful culture of innovation cannot exist without it. But what Jeff Bezos cannot tolerate is someone making the same mistake over and over again, or failing for the wrong reasons.
 
+不犯错误；亚马逊对于失败的容忍度很高。没有它，就不可能存在成功的创新文化。但是，杰夫贝佐斯不能容忍的是有人一遍又一遍地犯同样的错误，或者因为错误的原因而失败。
+
 Therefore, leaders at Amazon are expected to be right far more often than they are wrong. And when they are wrong—which of course will happen when a company continually pushes the envelope, as Amazon does—they are expected to learn from their mistakes, develop specific insights into the reasons for those mistakes, and share those insights with the rest of the company.
 
+因此，在亚马逊希望领导者正确的次数远多于错误的次数。当他们犯错时—这当然会发生在公司不断挑战极限时，就像亚马逊一样—他们被期望从错误中吸取教训，对这些错误的原因形成具体的见解，并与公司的其他人分享这些见解。
+
 The resulting culture of learning, growth, and accountability would be impossible without a high premium on *clarity* - clarity in the setting of goals, the communication of those goals throughout the organization, the establishment of metrics, and the use of those metrics in gauging the success or failure of any initiative. Practices like "fudging the numbers," "guesstimating," "approximating," and "bending the rules," as well as deadlines that aren't real deadlines and targets that are purely aspirational rather than firm objectives—all of these are anathema at Amazon.com.
+
+
 
 As I’ve mentioned, one of the reasons I’m able to write out a description of Amazon’s fourteen leadership secrets eight years after I left the company is the exceptionally clear way we articulated our goals and processes as a team and as an organization. Great leaders (like Jeff Bezos) develop a strong, clear framework; then they constantly apply that framework and articulate it accurately to their team. Get this right from the outset and you’ve got an excellent mechanism for scaling good decision-making from top to bottom. 
 
