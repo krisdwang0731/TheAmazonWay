@@ -46,28 +46,59 @@ Jeff also believes that successful leaders, when presented with new evidence and
 
 The style and format of Amazon.com project vision statements offers another excellent example of the narrative as a forcing function. Written as a short, simple, clear, digestible narrative, the Amazon “future press release” creates very little wiggle room and holds the highlighted team’s feet to the fire by introducing specific parameters and deadlines that are expected to be met. So useful is this technique that an Amazon product launch almost always begins with what we used to call a future press release—an announcement of the product written before its development even began, used for internal purposes only. Crafting the future press release forced us to articulate for ourselves what would be newsworthy about the product at the very end of the development process.
 
+亚马逊项目愿景陈述的形式和格式提供了作为强制功能（forcing function)叙述的另一个很好的例子。 通过书写一个简短、简单、清晰、易懂的叙述，亚马逊的“未来新闻稿”创造了很小的回旋余地，并通引入强调预期的特殊变量和最后期限来保持团队警惕。 这种技术非常有用，以至于亚马逊产品的发布几乎总是以我们过去所说的未来新闻稿开始——在产品开发之前发布的产品公告，仅供内部使用。 制作未来的新闻稿迫使我们在开发过程的最后为自己阐明产品的新闻价值。
+
 This is a great way to define clear and lofty goals, requirements, and objectives, and to build broad understanding from the start of a program or enterprise change. Any time your organization is beginning to undertake a critical enterprise or competitive endeavor—launching a new product, undergoing a transformation, or entering a new market—writing a future press release is a great technique. Follow these rules to make them effective:
 
+这是定义清晰而崇高的目标、要求和宗旨，并从计划或企业变革开始就建立广泛理解的好方法。 每当您的组织开始进行关键企业或竞争活动时——推出新产品、进行转型或进入新市场——撰写未来的新闻稿都是一项很好的技巧。 遵循以下规则以使其有效：
+
 * Write the release as if you are writing at some future point in time where success has been achieved and realized. For example, when look- ing forward to the introduction of a new product, writing a press release as if at the day of product launch is good, but even better is a date sometime after launch, where true success can be discussed.
+
+  编写发布版本，就像您在未来某个已经取得并实现成功的时间点编写一样。 例如，当期待推出新产品时，在产品发布当天撰写新闻稿是好的，但更好的是发布后的某个日期，在那里可以讨论真正的成功。
+
 * Discuss why the initiative is important to cus- tomers or other key stakeholders. How did the customer experience improve? What benefits have customers received? Then discuss other rea- sons why it was important.
+
+  讨论为什么该计划对客户或其他主要利益相关者很重要。 客户体验如何改善？ 客户得到了什么好处？ 然后讨论为什么它很重要的其他原因。
+
 * Set audacious, clear, and measurable goals, in- cluding financial results, operating objectives, and market share.
-* Outline the principles used that led to success. This is the trickiest and most important step. Describe the hard things accomplished, the im- portant decisions along the way, and the design principles that led to success.
+
+  设定大胆、清晰和可衡量的目标，包括财务业绩、经营目标和市场份额。
+
+* Outline the principles used that led to success. This is the trickiest and most important step. Describe the hard things accomplished, the important decisions along the way, and the design principles that led to success.
+
+  概述所使用的导致成功的原则。 这是最棘手也是最重要的一步。 描述完成的困难的事情，过程中的重要决定以及导致成功的设计原则。
 
 The future press release is a type of forcing function. It paints a clear vision to galvanize understanding and com- mitment. Once it has been reviewed and approved, teams have a difficult time backing out of the promises it implies. As the project continues, a leader can refer to the press re- lease and use it to remind and hold teams accountable.
 
+未来的新闻稿是一种强制功能。 它描绘了一个清晰的愿景，以激发理解和承诺。 一旦它被审查和批准，团队就很难放弃它所暗示的承诺。 随着项目的进行，领导者可以参考新闻稿并使用它来提醒和追究团队的责任。
+
 Here is the future press release we might have written in 2002 when launching the third-party selling business:
+
+以下是我们可能在 2002 年启动第三方销售业务时撰写的未来新闻稿：
 
 ***Amazon Announces Huge Growth in Third-Party Selling, Delighting Customers and Sellers***
 
-Seattle, WA: Amazon announced results for the third-party selling business today. Using the third-party selling platform, Amazon customers can now shop across many categories of products today including apparel, sporting goods, home decor, jewelry and electronics with incredible se- lection, price and an experience equaling orders fulfilled by Amazon.
+***亚马逊宣布第三方销售大幅增长，令客户和卖家感到高兴***
+
+Seattle, WA: Amazon announced results for the third-party selling business today. Using the third-party selling platform, Amazon customers can now shop across many categories of products today including apparel, sporting goods, home decor, jewelry and electronics with incredible selection, price and an experience equaling orders fulfilled by Amazon.
+
+华盛顿州西雅图：亚马逊今天公布了第三方销售业务的业绩。 使用第三方销售平台，亚马逊客户现在可以购买多种类别的产品，包括服装、体育用品、家居装饰、珠宝和电子产品，其选品、价格和体验与亚马逊提供服务的订单相当。
 
 “The Amazon customer now thinks about Amazon for any retail need, thanks to the third party selling business. Over 30% of all orders at Amazon are now third party sold and ful- filled orders, across 10 new and expanded prod- uct categories,” explained Director of Merchant Integration John Rossman. “We tackled several difficult hurdles to make this successful, with the key being that sellers had a great experience. Sellers can now register, list products to sell, take orders and fulfill in the middle of the night, with- out ever having to talk to someone at Amazon.”
 
+“感谢第三方销售服务，亚马逊客户现在考虑使用亚马逊来满足任何零售需求。 亚马逊超过 30% 的订单现在是第三方销售和履行的订单，涵盖 10 个新的和扩展的产品类别”，商户整合总监 John Rossman 解释道。 “我们克服了很多困难和障碍才能成功，关键是卖家有很好的体验。 卖家现在可以注册、列出要销售的产品、接受订单并在半夜完成，而无需与亚马逊的任何人交谈。”
+
 If you want to increase your chances of achieving your goals when launching any important initiative, make sure you define and explain those goals with utter clarity from the very beginning. The future press release is a useful tool for making that happen.
+
+如果您想在启动任何重要计划时增加实现目标的机会，请确保从一开始就完全清楚地定义和解释这些目标。 未来的新闻稿是实现这一目标的有用工具。
 
 ## Clarity and the Culture of Performance
 
+## 清晰和绩效文化
+
 There is no hiding from your failures in a culture that holds people accountable for their metrics. As Manfred Bluemel, a former senior market researcher at Amazon, once said, “If you can stand a barrage of questions, then you have picked the right metric. But you had better have your stuff together. The best number wins.”<sup>2</sup>
+
+
 
 Bluemel was referring to Amazon.com’s “gladiator cul- ture.” Because the numbers provide crystal-clear, incontro- vertible proof of which leaders are right a lot, Amazon.com operates to as close to a true meritocracy as possible. I cannot overstate how important this is for minimizing bureaucracy in the organization. When Jeff purchased *The Washington Post* in 2013, a reporter at the paper interviewed me about this cultural phenomenon at Amazon.com. I explained how key judgments were made during my years at the company: “It was not the title but rather who’s got the best idea. Who’s bringing the solution to the table? That’s what was most important.”<sup>3</sup>
 
