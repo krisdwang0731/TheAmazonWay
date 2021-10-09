@@ -94,45 +94,83 @@ If you want to increase your chances of achieving your goals when launching any 
 
 ## Clarity and the Culture of Performance
 
-## 清晰和绩效文化
+## 澄清和绩效文化
 
 There is no hiding from your failures in a culture that holds people accountable for their metrics. As Manfred Bluemel, a former senior market researcher at Amazon, once said, “If you can stand a barrage of questions, then you have picked the right metric. But you had better have your stuff together. The best number wins.”<sup>2</sup>
 
-
+在对指标负责的文化中，失败是无法掩饰的。 正如亚马逊前高级市场研究员曼弗雷德·布鲁梅尔 (Manfred Bluemel) 曾经说过的那样：“如果你能抵抗连珠炮一样的问题，那么你就选择了正确的指标。 但你最好把你的东西放在一起。 最佳数字获胜。”<sup>2</sup>
 
 Bluemel was referring to Amazon.com’s “gladiator cul- ture.” Because the numbers provide crystal-clear, incontro- vertible proof of which leaders are right a lot, Amazon.com operates to as close to a true meritocracy as possible. I cannot overstate how important this is for minimizing bureaucracy in the organization. When Jeff purchased *The Washington Post* in 2013, a reporter at the paper interviewed me about this cultural phenomenon at Amazon.com. I explained how key judgments were made during my years at the company: “It was not the title but rather who’s got the best idea. Who’s bringing the solution to the table? That’s what was most important.”<sup>3</sup>
 
+Bluemel 指的是亚马逊的“角斗士文化”。 因为这些数字提供了非常清晰、无可争议的证据，证明哪些领导者是正确的，亚马逊的运作尽可能接近真正的精英管理。 我不能夸大这对于减少组织中的官僚主义有多么重要。 当杰夫在 2013 年购买*华盛顿邮报*时，该报的一名记者针对亚马逊这种文化现象采访了我。 我解释了我在公司工作期间如何做出关键判断：“不是头衔，而是谁有最好的想法。 谁提出了解决方案？ 这才是最重要的。<sup>3</sup>
+
 To be blunt, as an Amazon.com leader, you don’t get the chance to make a lot of mistakes. Screw up for long enough, or for the wrong reasons, and the island will simply vote you off. It is the strongest culture of performance I have ever ex- perienced, and it is directly tied to metrics and results.
+
+坦率地说，作为亚马逊的领导者，你没有机会犯很多错误。 搞砸了足够长的时间，或者出于错误的原因，你就会被淘汰。 这是我体验过的最强大的绩效文化，它与指标和结果直接相关。
 
 ## “Did I Have a Good Day Today?” The Engineer’s Answer
 
+## “我今天过得好吗？” 工程师的回答
+
 At Amazon.com, having a balanced, well-engineered scorecard of metrics that is consistently reviewed day over day, week over week, provides deep insights into what works and what doesn’t. It also places sole responsibility for success and failure on you as a leader.
+
+亚马逊有一个平衡的、精心设计的指标计分卡，每天、每周都持续审查，可以深入了解哪些有效，哪些无效。 它还让您作为领导者对成功和失败承担全部责任。
 
 Repeatable, consistent performance reflected in metrics is the gold standard for success at Amazon. Without access to a consistent set of metrics, an Amazon.com leader would be flying blind, and such risky behavior is not acceptable at the company. Amazon.com relies on real-time metrics or in- strumentation more than any other company I have ever been involved with. Real data and real insights from the customer experience are used continually to answer the question, “Did I have a good day today?” If your metrics are in place, they are real-time, and your team and processes use them, this question yields a simple “yes” or “no” answer.
 
-It takes foresight to do leadership-by-the-numbers cor- rectly. You must embed real-time metrics from the very start of a program, because they are nearly impossible to retrofit.
+指标中反映的可重复、一致的表现是亚马逊成功的黄金标准。 如果无法获得一组一致的指标，亚马逊的领导者就瞎说一番，这种冒险行为在公司是不可接受的。 与我参与过的任何其他公司相比，亚马逊对实时指标或工具的依赖程度更高。 来自客户体验的真实数据和真实见解不断被用来回答“我今天过得愉快吗？”这个问题。 如果您的指标到位，它们是实时的，并且你的团队和流程使用它们，那么这个问题会产生一个简单的“是”或“否”答案。
+
+It takes foresight to do leadership-by-the-numbers correctly. You must embed real-time metrics from the very start of a program, because they are nearly impossible to retrofit.
+
+正确地进行数字领导需要远见卓识。 您必须从程序一开始就嵌入实时指标，因为它们几乎不可能进行改造。
 
 The Amazon experience shows us that the single biggest opportunity for companies operating today is to completely rethink their concept of metrics. Most companies use what’s called batch architecture to record large sets of transactions or other quantitative updates and to process them periodi- cally (daily or weekly is typical). Batch architecture is very last century. In this day and age, you need real-time data, real-time monitoring, and real-time alarms when trouble is brewing—not lag-time metrics that hide the real issues for 24 hours or longer. Your business should operate like a nuclear reactor. If a problem arises, you need to be aware immediately.
 
+亚马逊的经验告诉我们，当今公司运营最大的机会就是彻底重新思考他们的指标概念。 大多数公司使用所谓的批处理架构来记录大量交易或其他定量更新并定期处理它们（通常是每天或每周）。 批处理架构是非常上世纪的。 在当今这个时代，您需要实时数据、实时监控和问题正在酝酿时的实时警报，而不是将真正问题隐藏 24 小时或更长时间的滞后时间指标。 您的企业应该像核反应堆一样运作。 如果出现问题，您需要立即意识到。
+
 This is why the word *instrumentation* is useful. It gives a different feel than *metrics* or *business intelligence*. An airplane pilot needs accurate real-time data. There can be no latency because there is no “down time” in a plane. Introducing the concept of instrumentation was a big and important change at Amazon.com, closely tied to our commitment to application programming interfaces (APIs) and service-oriented archi- tectures (SOA). Instrumentation as a critical feature provided the dashboard to understand performance and issues in a real- time manner. In pursuit of true instrumentation, Amazon. com is constantly developing its real-time capabilities. During my time at the organization, Amazon.com tracked its perfor- mance against roughly 500 measurable goals, nearly 80 per- cent of which had to do with customer objectives.<sup>4</sup>
+
+这就是*仪表*这个词有用的原因。 它给人的感觉与*指标*或*商业智能*不同。 飞机飞行员需要准确的实时数据，不会有延迟，因为飞机上没有“停机时间”。 引入仪表的概念是亚马逊的一个重大而重要的变化，与我们对应用程序编程接口 (API) 和面向服务的架构 (SOA) 的承诺密切相关。 仪表作为一项关键功能提供了仪表板以实时了解性能和问题。 为了追求真正的仪表，亚马逊不断开发其实时功能。 在我任职期间，亚马逊根据大约 500 个可衡量目标跟踪其绩效，其中近 80% 与客户目标有关。<sup>4</sup>
 
 As I mentioned in Chapter 3, while I was heading up our third-party seller business, we decided we wanted the customers to have as much trust in buying from a third party as they did in buying from Amazon.com itself. Only because we embedded real-time instrumentation from the very outset could we ask a third-party seller, “Why aren’t you fulfilling this on time?” or “Why is this item available at your site but not through Amazon.com?” The key is that our measure- ment tools had to be actionable and very current—as close to real-time as possible. We started with the concept of “perfect orders,” already used in Amazon retail as a way of measuring seller performance. The specific metrics we developed to measure seller performance included:
 
 *Order defect rate (ODR).* This is the percentage of a sell- er’s orders that have received negative feedback (such as a one-star or two-star customer rating), an A-to-Z Guarantee claim, or a service credit card chargeback request (when a customer disputes a credit card charge with his or her bank). ODR allows Amazon.com to measure overall performance with a single metric. Obviously, a seller who maintains a high percentage of negative feedback is failing to live up to Amazon.com’s customer-centric philosophy.<sup>5</sup>
 
+正如我在第 3 章中提到的那样，当我领导我们的第三方卖家业务时，我们决定希望客户对从第三方购买商品的信任度与亚马逊购买商品的信任度一样高。 只是因为我们从一开始就嵌入了实时仪表，我们可以问第三方卖家，“你为什么不按时完成这个？” 或“为什么您的网站上有此商品，但亚马逊上没有？” 关键是我们的测量工具必须是可操作的并且是最新的—尽可能接近实时。 我们从“完美订单”的概念开始，亚马逊零售业已将其用作衡量卖家绩效的一种方式。 我们开发的用于衡量卖家绩效的具体指标包括：<sup>5</sup>
+
 *Pre-fulfillment cancellation rate.* This is the percentage of orders cancelled by a seller for any reason prior to shipment confirmation.
 
-*Late shipment rate.* This is the percentage of orders with a shipment confirmation that is overdue by three or more days. Orders that are ship-confirmed late may lead to in- creased customer contacts and negatively impact customer experience.
+*履约前取消率。*这是在发货确认之前卖家因任何原因取消订单的百分比。
+
+*Late shipment rate.* This is the percentage of orders with a shipment confirmation that is overdue by three or more days. Orders that are ship-confirmed late may lead to increased customer contacts and negatively impact customer experience.
+
+*延迟发货率。*这是发货确认逾期三天或更长时间订单的百分比。 延迟发货的订单可能会增加客户服务，并对客户体验产生负面影响。
 
 *Refund rate.* This is the percentage of orders refunded by a seller for any reason.
 
+*退款率。*这是卖家因任何原因退款订单的百分比。
+
 All sellers should be working toward achieving and maintaining a level of customer service that meets the fol- lowing performance targets:
 
+所有卖家都应努力实现并保持满足以下绩效目标的客户服务水平：
+
 * Order defect rate: < 1%
+
+  订单缺陷率: < 1%
+
 * Pre-fulfillment cancel rate: < 2.5%
+
+  履约前取消率: < 2.5%
+
 * Late shipment rate: < 4%
+
+  延迟发货率: < 4%
 
 Failure to meet these targets often results in the removal of the individual’s selling privileges. Internally, seller metrics become bundled with even more measures of effectiveness and quality of seller performance, including customer ratings and the number of customer service contacts.<sup>6</sup>
 
+未能达到这些目标通常会导致个体的销售权被取消。在内部，卖家指标与更多卖家绩效的有效性和质量指标捆绑在一起，包括客户评分和客户服务联系人的数量。<sup>6</sup>
+
 Systems and software engineers will always be at the top of the food chain in a culture of innovation and metrics because they create the proprietary algorithms that enable leaders to have their fingers on the pulse of their businesses every second of the day. Jeff Bezos and Amazon have a deep belief that small teams of world-class engineers can out-in- novate massive bureaucracies. Why? It has a lot to do with the instinctive preference for clarity that engineers develop through a lifetime of working with numbers and system re- quirements. Whereas bureaucrats automatically obfuscate, engineers automatically clarify. Clarification is the Amazon way, and is the basis for the culture of accountability that Jeff prides himself on creating.
+
+在创新和度量文化中，系统和软件工程师将始终处于食物链的顶端，因为他们创建了专有算法，使领导者能够在一天中的每一秒都掌握业务脉搏。杰夫·贝佐斯和亚马逊深信，世界级工程师的小团队可以超越庞大的官僚机构。为什么？这与工程师在处理数字和系统需求的一生中形成的对清晰的本能偏好有很大关系。官僚们会自动混淆，而工程师会自动澄清。澄清是亚马逊的方式，也是杰夫引以为豪的问责文化的基础。
 
