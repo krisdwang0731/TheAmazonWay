@@ -16,9 +16,9 @@ What’s the thinking behind paying employees to quit? Pretty simple, really. It
 
 付钱给员工辞职背后的想法是什么？ 很简单，真的。 这是关于承诺的测试。 如果您愿意拿 2,000 美元离开 Zappos（这是我上次查看的报价），那么您显然还没有接受该公司正在尝试做的事情。 我不确定，但我怀疑 Hsieh 对员工的大胆“全身心投入”的要求是 Jeff 决定收购他的公司的主要驱动因素。
 
-Jeff didn’t offer me money to leave Amazon at any point during my tenure, but (as I’ve mentioned) I did endure 23 in- terviews over six weeks before being hired in the first place. I’ve heard others compare the process to the oral exam that a Ph.D. candidate must survive. I don’t have a doctorate, but that sounds about right. The scrutiny is very, very intense. A typical interview day at Amazon can last nine hours. You may find yourself speaking to a group of people who will be working for you if you are hired. You may find yourself sitting in on a strategic meeting with company brass. You may be expected to contribute a solution to a real-time prob- lem. You may even be shown the door before you ever get started. This is a test of commitment that is very comparable to Zappos’s $2,000 exit offer and reflects the same belief in the crucial importance of hiring and retaining only the right people.
+Jeff didn’t offer me money to leave Amazon at any point during my tenure, but (as I’ve mentioned) I did endure 23 in- terviews over six weeks before being hired in the first place. I’ve heard others compare the process to the oral exam that a Ph.D. candidate must survive. I don’t have a doctorate, but that sounds about right. The scrutiny is very, very intense. A typical interview day at Amazon can last nine hours. You may find yourself speaking to a group of people who will be working for you if you are hired. You may find yourself sitting in on a strategic meeting with company brass. You may be expected to contribute a solution to a real-time problem. You may even be shown the door before you ever get started. This is a test of commitment that is very comparable to Zappos’s $2,000 exit offer and reflects the same belief in the crucial importance of hiring and retaining only the right people.
 
-杰夫在我任职期间的任何时候都没有给过我离开亚马逊的钱，但是（正如我所提到的）我确实在六周内接受了 23 次面试，然后才被录用。 我听说其他人将这个过程比作博士学位的口试。 候选人必须生存。 我没有博士学位，但这听起来是对的。 审查非常非常严格。 亚马逊的典型面试日可以持续 9 个小时。 如果您被录用，您可能会发现自己与一群将为您工作的人交谈。 您可能会发现自己坐在公司高层的战略会议上。 您可能需要为实时问题提供解决方案。 您甚至可能在开始之前就被带进门。 这是对承诺的考验，与 Zappos 的 2,000 美元退出报价非常相似，反映了同样的信念，即只雇用和留住合适的人至关重要。
+杰夫在我任职期间的任何时候都没有给过我钱让我离开亚马逊，但是（正如我所提到的）我确实在六周内接受了 23 次面试，然后才被录用。 我听说其他人将这个过程比作博士学位的口试。 候选人必须生存。 我没有博士学位，但这听起来是对的。 审查非常非常严格。 亚马逊的典型面试日可以持续 9 个小时。 如果您被录用，你可能会发现自己与一群将为你工作的人交谈。 你可能会发现自己坐在公司高层的战略会议上。 您可能需要为实时问题提供解决方案。 您甚至可能在开始之前就被带进门。 这是对承诺的考验，与 Zappos 的 2,000 美元退出报价非常相似，反映了同样的信念，即只雇用和留住合适的人至关重要。
 
 From the beginning, Jeff understood how important it was to seed Amazon with people who embodied the culture he wanted to create—that your people *are* your company. As a result, his standards are shockingly high. As Jeff often says, it’s better to let the perfect person go than to hire the wrong person and have to deal with the ramifications. Why? Because it is a difficult, time-consuming, and expensive pro- cess to get rid of a bad hire—and in the meantime, they are dragging down those around them by their failure to help keep the flywheel of continuous growth and improvement humming at full strength.
 
@@ -44,26 +44,54 @@ It’s quite an honor to be named a bar raiser. The selection is based on the su
 
 Even if you are not the bar raiser, your role in the hiring process is vital. Jeff would frequently tell us all that a hiring decision was probably the most important decision we could make as a member of the organization. We all knew that every successful candidate’s career was inextricably linked to our own. And this was, without a doubt, the most effective forcing function for excellence.
 
+即使你不是bar raiser，你在招聘过程中的角色也至关重要。 杰夫经常告诉我们所有人，招聘决定可能是我们作为组织成员所能做出的最重要的决定。 我们都知道，每个成功候选人的职业生涯都与我们自己的事业密不可分。 毫无疑问，这是追求卓越的最有效的强制功能。
+
 Another was our custom recruiting application, which forced every interviewer to provide a lengthy, narrative anal- ysis of the candidate and a yes-or-no recommendation (with no “maybe” option available). Your notes were expected to be detailed enough to justify your answer; the after-inter- view questioning could almost be as intense and consuming for the interviewer as it had been for the interviewee. The data was then immediately processed and applied to the next round of interviews. The process was so efficient that the next set of interviewers would often adapt their questions to push the candidate in directions suggested by answers they had provided just an hour or two earlier. As an interviewer, I sometimes forgot to listen to the candidate’s answers be- cause I was so busy directing my line of questioning to suit the previous interviewer’s data or scribbling madly to record everything said.
 
-After the interviews were completed, the hiring man- ager and bar raiser would review the notes and the votes of every interview. If a debrief was required, it was mandatory that everyone attend. And, of course the bar raiser could veto the hire without question, no matter how the team or hiring manager felt.
+另一个是我们定制的招聘应用程序，它迫使每个面试官对候选人提供冗长的叙述性分析和是或否的建议（没有“可能”选项可用）。 你的笔记应该足够详细以证明你的回答是正确的； 面试后的提问对面试官来说几乎和对候选人的一样激烈和费力。 然后立即处理数据并应用于下一轮面试。 这个过程非常高效，以至于下一组面试官通常会调整他们的问题，将候选人推向他们在一两个小时前提供的答案所建议的方向。 作为一名面试官，我有时会忘记听候选人的回答，因为我忙着引导我的提问以适应前任面试官的数据，或者疯狂地涂鸦记录所有的内容。
+
+After the interviews were completed, the hiring manager and bar raiser would review the notes and the votes of every interview. If a debrief was required, it was mandatory that everyone attend. And, of course the bar raiser could veto the hire without question, no matter how the team or hiring manager felt.
+
+面试结束后，招聘经理和bar raiser会审查每次面试的笔记和投票。 如果需要问询，则每个人都必须参加。 而且，当然，无论团队或招聘经理的感受如何，bar raiser都可以毫无疑问地否决招聘。
 
 It was an absurdly rigorous process, one that would be considered wildly excessive at almost any other company. But if you really believe that your people *are* your company,why not invest the time and effort required to identify and hire only the very best?
 
-Because standards are so high, hiring can be problem- atic. What many people don’t realize is that Amazon.com almost went out of business in 2000, not long before I ar- rived. There was not enough revenue and way too much cost. The stock price plunged from $100 to $44 to $20 to below $5. The company closed down customer service, and massive layoffs ensued. Over the next few years, it was tremendously difficult to hire the best because we wouldn’t pay them what they deserved and the stock options were far from enticing. There was a lot of risk and we basically expected people to take a pay cut to join us.
+这是一个极其严格的过程，几乎在任何其他公司都会被认为是极其过分的。 但是，如果您真的相信您的员工*就是*您的公司，为什么不投入所需的时间和精力来识别和雇用最优秀的人？
+
+Because standards are so high, hiring can be problematic. What many people don’t realize is that Amazon.com almost went out of business in 2000, not long before I ar- rived. There was not enough revenue and way too much cost. The stock price plunged from $100 to $44 to $20 to below $5. The company closed down customer service, and massive layoffs ensued. Over the next few years, it was tremendously difficult to hire the best because we wouldn’t pay them what they deserved and the stock options were far from enticing. There was a lot of risk and we basically expected people to take a pay cut to join us.
+
+由于标准太高，招聘可能会出现问题。 很多人没有意识到，亚马逊几乎在 2000 年就倒闭了，就在我加入之前不久。 没有足够的收入和高昂的成本。 股价从 100 美元跌至 44 美元，再到 20 美元跌至 5 美元以下。 公司关闭了客户服务，随之而来的是大规模裁员。 在接下来的几年里，聘请最好的人非常困难，因为我们不会支付他们应得的报酬，而且股票期权也远没有吸引力。 风险很大，我们基本上希望人们减薪加入我们。
 
 Yet the incredible commitment to hiring only the best remained unwavering. One colleague of mine wasn’t able to find a suitable hire for over two months, so they just axed the position and told him that, if he hadn’t been able to make the hire, then he obviously didn’t need the person in the first place.
 
-Of course, Amazon isn’t above taking advantage of short- cut methods for identifying great talent. In a 2012 *CNN Money* article, Adam Lashinsky explained how Amazon. com had gone on a “military hiring spree” because Jeff was impressed with veterans’ logistical know-how and bias for action.3 In fact, Amazon.com has a dedicated military re- cruiting website and a highly consistent hiring and retention record for ex-military personnel.
+然而，只聘用最优秀的人才这一令人难以置信的承诺仍然坚定不移。 我的一个同事两个多月都找不到合适的人选，所以他们就干脆把这个职位砍了。首先，告诉他，如果他没能招到人，那他显然不需要这个人。
+
+Of course, Amazon isn’t above taking advantage of shortcut methods for identifying great talent. In a 2012 *CNN Money* article, Adam Lashinsky explained how Amazon. com had gone on a “military hiring spree” because Jeff was impressed with veterans’ logistical know-how and bias for action.<sup>3</sup> In fact, Amazon.com has a dedicated military recruiting website and a highly consistent hiring and retention record for ex-military personnel.
+
+当然，亚马逊并不擅长利用快捷方法来识别优秀人才。 在 2012 年的 *CNN Money* 文章中，Adam Lashinsky 解释了亚马逊是如何做到进行“军事招聘热潮”的，因为杰夫对退伍军人的后勤知识和行动能力印象深刻。 事实上，亚马逊有一个专门的军事招聘网站，并为退伍军人提供了高度一致的招聘和保留记录。
 
 This practice of hiring veterans isn’t about expressing gratitude for ex-soldiers’ service to our country. Veterans fit Jeff’s business model. As a result, Amazon.com has not bothered to launch a huge PR campaign about its military employment program. Jeff just realized it was good business.
 
+这种雇用退伍军人的做法并不是要表达对退伍军人为国家服务的感激之情。 退伍军人符合杰夫的商业模式。 因此，亚马逊并没有费心发起关于其军事就业计划的大规模公关活动。 杰夫刚刚意识到这是一笔好生意。
+
 ## The Passing Grade Is A
+
+## 及格成绩是A
 
 The kiss of death at Amazon.com is being known as a “solid guy.” While this might seem like a perfectly accept- able description at another company, Jeff’s perception was different. As far as he was concerned, everyone at Amazon is fortunate to be there. People who didn’t excel at their jobs were failing to contribute appropriately, in effect free-riding on the rest of us. As leaders, we were expected to work with laggards like these to improve their performance into the A+ category—or else find some way to incent these people to leave.
 
+亚马逊的死亡之吻被称为“坚强的人”。 虽然这在另一家公司看来是完全可以接受的描述，但杰夫的看法不同。 在他看来，亚马逊的每个人都很幸运能为亚马逊工作。 不擅长工作的人没有做出适当的贡献，实际上是搭便车。 作为领导者，我们应该与这些落后者合作，将他们的表现提高到 A+ 类别——或者找到某种方法来激励这些人离开。
+
 As a result, Amazon.com experienced systematic and significant turnover during my years there. Jeff told us to focus our positive reinforcement on our A+ people; he was comfortable with a high degree of churn below that standard.
 
-This strategy was distinctly underlined by the compen- sation policy. At Amazon.com, the vast majority of stock op- tions go to the A+ employees; only the crumbs go to the B and C players. And since the salaries were, relatively speak- ing, quite low (I think the top salary at the time was $155k), a vast majority of our compensation came in the form of stock. So being “a solid B” meant a significant falloff in stock options and promotion opportunities. It was all part of Jeff’s way of instilling a sense of ownership in the company: our financial fortunes were directly tied to the success of the company.
+结果，我在亚马逊的这些年当中，亚马逊经历了系统性和重大的人员变动。 杰夫告诉我们将积极的强化集中在绩效 A+ 的人身上； 他对低于该标准的高流失率感到满意。
+
+This strategy was distinctly underlined by the compensation policy. At Amazon.com, the vast majority of stock op- tions go to the A+ employees; only the crumbs go to the B and C players. And since the salaries were, relatively speaking, quite low (I think the top salary at the time was $155k), a vast majority of our compensation came in the form of stock. So being “a solid B” meant a significant falloff in stock options and promotion opportunities. It was all part of Jeff’s way of instilling a sense of ownership in the company: our financial fortunes were directly tied to the success of the company.
+
+亚马逊的福利政策直接体现了这一点。 在亚马逊，绝大多数股票期权都流向了A+员工； 只有很少一部分给到了绩效为B和C的成员。 而且由于薪水相对来说相当低（我认为当时的最高薪水是 155,000 美元），我们的大部分薪酬都是以股票的形式出现的。 因此，绩效是B意味着股票期权和晋升机会的显着减少。 这是杰夫在公司中灌输主人翁意识方式的一部分：我们的财务状况与公司的成功直接相关。
 
 Only seeking out, hiring, and retaining the very best people makes it possible to insist upon the highest standards of performance in the everyday activities of your company.
+
+只有寻找、雇用和留住最优秀的人才，才能在公司的日常活动中坚持最高的绩效标准。
+
+> 译者注：在亚马逊，绩效分为两部分，一是传统意义上的performance，另一部分是leadership的评价；performance分为Outstanding，Exceeds, Achieves，Imporvement Needed和Unstatisfactory. leadership评价分为Role Model，Solid Strength和Development Needed. 
