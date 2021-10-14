@@ -1,5 +1,7 @@
 # Hire and Develop the Best
 
+# 雇佣和培养最优秀的人
+
 > *Leaders at Amazon raise the performance bar with every hire and promotion. They recognize exceptional talent, and willingly move them throughout the organization. Leaders develop lead- ers and take seriously their role in coaching others.*
 >
 > *亚马逊的领导者通过每次招聘和晋升提高绩效标准。 他们认可杰出的人才，并愿意在整个组织内调动他们。 领导者培养领导者并认真对待他们在指导他人方面的作用。*
